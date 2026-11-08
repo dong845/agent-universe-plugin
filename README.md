@@ -1,5 +1,9 @@
 # Agent Universe — Claude Code plugin
 
+![Agent Universe](docs/space-en.jpg)
+
+What Agent Universe is: [English](docs/README.md) · [中文](docs/README.zh.md)
+
 `/agent-universe` opens [Agent Universe](https://www.npmjs.com/package/agent-universe): your Claude Code and
 Codex work drawn as a universe that grows with it, read from the logs on your own computer and shown only
 there (http://127.0.0.1:5182/).
