@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-universe",
+  "description": "Agent Universe: your Claude Code and Codex work drawn as a universe, from the logs on your own computer.",
+  "owner": { "name": "dong845", "url": "https://github.com/dong845" },
+  "plugins": [
+    {
+      "name": "agent-universe",
+      "description": "Opens Agent Universe: /agent-universe starts the local page (npx agent-universe) and gives you the link.",
+      "source": "./plugin",
+      "category": "productivity",
+      "tags": ["visualization", "claude-code", "codex", "dashboard"]
+    }
+  ]
+}
